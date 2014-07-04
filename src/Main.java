@@ -5,5 +5,6 @@ public class Main {
         System.out.println(args[0]);
         System.out.println("!");
 		//asta e comentariu
+		//al doilea comentariu
     }
 }
